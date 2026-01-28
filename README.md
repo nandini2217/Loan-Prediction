@@ -4,8 +4,6 @@
 
 ---
 
-# 🏦 Loan Prediction Web Application
-
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Flask](https://img.shields.io/badge/Flask-Web_Framework-black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange)
