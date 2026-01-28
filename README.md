@@ -1,6 +1,19 @@
 🏦 Loan Approval Prediction System
 
 
+# Loan Prediction Web Application 🚀
+
+🔗 **Live Demo:** https://loan-prediction-r39l.onrender.com
+
+
+## Tech Stack
+- Python
+- Flask
+- scikit-learn
+- Gunicorn
+- Render
+
+
 📌 Project Overview
 
    Predicting whether a loan should be approved is a critical task for financial institutions. This application uses Machine Learning to automate the process, analyzing applicant data to provide a "Yes" or "No"        recommendation. This helps in reducing manual errors and speeding up the credit risk assessment process.
