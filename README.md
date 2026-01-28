@@ -1,6 +1,7 @@
 # 🏦 Loan Prediction Web Application
 
-🔗 **Live Demo:** https://loan-prediction-t391.onrender.com  
+🔗 **Live Demo:** https://loan-prediction-r39l.onrender.com/
+
 
 ---
 
